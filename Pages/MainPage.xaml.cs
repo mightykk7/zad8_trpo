@@ -49,7 +49,7 @@ namespace Zad8_trpo.Pages
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new CreatePacient());
+            NavigationService.Navigate(new CreatePacient(Pacients));
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
@@ -59,7 +59,7 @@ namespace Zad8_trpo.Pages
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new UpdatePacient(Pacients, SelectedPacient));
+            NavigationService.Navigate(new UpdatePacient(SelectedPacient));
         }
     }
 }

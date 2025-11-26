@@ -45,7 +45,7 @@ namespace Zad8_trpo.Pages
                     Birthday = _selectedPacient.Birthday,
                     PhoneNumber = _selectedPacient.PhoneNumber,
                     LastAppointment = _selectedPacient.LastAppointment,
-                    LastDoctor = doctor.Id,
+                    LastDoctor = _selectedPacient.LastDoctor,
                     Diagnosis = _selectedPacient.Diagnosis,
                     Recomendations = _selectedPacient.Recomendations
                 };
@@ -67,6 +67,9 @@ namespace Zad8_trpo.Pages
             }
             EnterPacient.LastDoctor = EnterDoctor.Id;
             var Json = JsonSerializer.Serialize(EnterPacient);
+            _selectedPacient.LastDoctor = EnterPacient.LastDoctor;
+            _selectedPacient.Diagnosis = EnterPacient.Diagnosis;
+            _selectedPacient.Recomendations = EnterPacient.Recomendations;
             File.WriteAllText($"P_{EnterPacient.Id}.txt", Json);
             MessageBox.Show("Изменения сохранены", $"ID = {EnterPacient.Id}", MessageBoxButton.OK, MessageBoxImage.Information);
             NavigationService.GoBack();

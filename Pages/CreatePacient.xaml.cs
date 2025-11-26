@@ -16,6 +16,7 @@ using System.Windows.Shapes;
 using System.IO;
 
 using zad7;
+using System.Collections.ObjectModel;
 
 namespace Zad8_trpo.Pages
 {
@@ -25,8 +26,10 @@ namespace Zad8_trpo.Pages
     public partial class CreatePacient : Page
     {
         public Pacient CurrentPacient { get; set; }
-        public CreatePacient()
+        public ObservableCollection<Pacient> _pacients { get; set; } = new();
+        public CreatePacient(ObservableCollection<Pacient> Pacients)
         {
+            _pacients = Pacients;
             CurrentPacient = new Pacient();
             InitializeComponent();
             DataContext = this;
@@ -46,6 +49,7 @@ namespace Zad8_trpo.Pages
             var Json = JsonSerializer.Serialize(CurrentPacient);
             File.WriteAllText($"P_{CurrentPacient.Id}.txt", Json);
             MessageBox.Show("Пользователь добавлен успешно", $"ID = {CurrentPacient.Id}", MessageBoxButton.OK, MessageBoxImage.Information);
+            _pacients.Add(CurrentPacient);
             NavigationService.GoBack();
         }
     }

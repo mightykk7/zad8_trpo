@@ -38,7 +38,7 @@
             <ListView Grid.Column="0"
                   Margin="10"
                   ItemsSource="{Binding Pacients}"
-                  SelectedItem="{Binding SelectedPacient, Mode=TwoWay}">
+                  SelectedItem="{Binding SelectedPacient}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <StackPanel Margin="5">
@@ -55,7 +55,7 @@
             <StackPanel Grid.Column="1" Margin="5" VerticalAlignment="Top">
                 <Button Content="Создать пациента" Height="30" Margin="0,5" Click="Button_Click"/>
                 <Button Content="Начать прием" Height="30" Margin="0,5" Click="Button_Click_1"/>
-                <Button Content="Изменить информацию" Height="30" Margin="0,5"/>
+                <Button Content="Изменить информацию" Height="30" Margin="0,5" Click="Button_Click_2"/>
             </StackPanel>
         </Grid>
     </Grid>

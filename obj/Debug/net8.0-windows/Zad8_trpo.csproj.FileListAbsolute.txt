@@ -30,3 +30,4 @@ C:\Users\st310-02\Desktop\Zad8_trpo\obj\Debug\net8.0-windows\Pages\StartReceivin
 C:\Users\st310-02\Desktop\Zad8_trpo\obj\Debug\net8.0-windows\Pages\StartReceiving.baml
 C:\Users\st310-02\Desktop\Zad8_trpo\obj\Debug\net8.0-windows\Pages\UpdatePacient.g.cs
 C:\Users\st310-02\Desktop\Zad8_trpo\obj\Debug\net8.0-windows\Pages\UpdatePacient.baml
+C:\Users\st310-02\Desktop\Zad8_trpo\obj\Debug\net8.0-windows\Zad8_trpo.sourcelink.json

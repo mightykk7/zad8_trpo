@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|c:\\users\\st310-02\\desktop\\zad8_trpo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\createpacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\createpacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\startreceiving.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\startreceiving.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\updatepacient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\updatepacient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\createpacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\createpacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\updatepacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\updatepacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\startreceiving.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\startreceiving.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\createpacient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\createpacient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\startreceiving.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:pages\\startreceiving.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|c:\\users\\st310-02\\desktop\\zad8_trpo\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD2750FD-957C-4E20-9409-414521C2D2C8}|Zad8_trpo.csproj|C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,30 +74,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "UpdatePacient.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\UpdatePacient.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\UpdatePacient.xaml.cs",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\UpdatePacient.xaml.cs",
               "RelativeToolTip": "Pages\\UpdatePacient.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvyEAAAAfAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvxwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:14:22.717Z"
+              "WhenOpened": "2025-11-24T10:14:22.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "UpdatePacient.xaml",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\UpdatePacient.xaml",
               "RelativeDocumentMoniker": "Pages\\UpdatePacient.xaml",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\UpdatePacient.xaml",
               "RelativeToolTip": "Pages\\UpdatePacient.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-24T10:12:34.229Z"
+              "WhenOpened": "2025-11-24T10:12:34.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,32 +109,35 @@
               "RelativeDocumentMoniker": "Pages\\StartReceiving.xaml.cs",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\StartReceiving.xaml.cs",
               "RelativeToolTip": "Pages\\StartReceiving.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAADwvzcAAAANAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwEQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T09:48:42.619Z"
+              "WhenOpened": "2025-11-24T09:48:42.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "StartReceiving.xaml",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\StartReceiving.xaml",
               "RelativeDocumentMoniker": "Pages\\StartReceiving.xaml",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\StartReceiving.xaml",
               "RelativeToolTip": "Pages\\StartReceiving.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-24T09:45:35.858Z"
+              "WhenOpened": "2025-11-24T09:45:35.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "CreatePacient.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\CreatePacient.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\CreatePacient.xaml.cs",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\CreatePacient.xaml.cs",
               "RelativeToolTip": "Pages\\CreatePacient.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowDAAAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwDIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T09:27:29.352Z"
+              "WhenOpened": "2025-11-24T09:27:29.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -142,48 +147,51 @@
               "RelativeDocumentMoniker": "Pacient.cs",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pacient.cs",
               "RelativeToolTip": "Pacient.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAswEwAAAAJAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAA7wEwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T09:26:45.621Z"
+              "WhenOpened": "2025-11-24T09:26:45.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CreatePacient.xaml",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\CreatePacient.xaml",
               "RelativeDocumentMoniker": "Pages\\CreatePacient.xaml",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\CreatePacient.xaml",
               "RelativeToolTip": "Pages\\CreatePacient.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-24T09:24:41.32Z"
+              "WhenOpened": "2025-11-24T09:24:41.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\MainPage.xaml.cs",
               "RelativeToolTip": "Pages\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAA1AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T08:47:53.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\MainPage.xaml",
               "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
               "ToolTip": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Pages\\MainPage.xaml",
               "RelativeToolTip": "Pages\\MainPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-24T08:40:00.875Z"
+              "WhenOpened": "2025-11-24T08:40:00.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\Zad8_trpo\\Doctor.cs",
               "RelativeDocumentMoniker": "Doctor.cs",

@@ -53,7 +53,7 @@ namespace Zad8_trpo.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Zad8_trpo;V1.0.0.0;component/pages/updatepacient.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Zad8_trpo;component/pages/updatepacient.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\UpdatePacient.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

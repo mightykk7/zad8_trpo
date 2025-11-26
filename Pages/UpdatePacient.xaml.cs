@@ -26,10 +26,8 @@ namespace Zad8_trpo.Pages
     public partial class UpdatePacient : Page
     {
         public Pacient CurrentPacient { get; set; }
-        public ObservableCollection<Pacient> _pacients;
-        public UpdatePacient(ObservableCollection<Pacient> Pacients, Pacient? SelectedPacient = null)
+        public UpdatePacient(Pacient? SelectedPacient = null)
         {
-            _pacients = Pacients;
             CurrentPacient = SelectedPacient;
             DataContext = this;
             InitializeComponent();
